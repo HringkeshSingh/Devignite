@@ -110,7 +110,6 @@ Additionally, the application includes charging station estimations and emergenc
 
 - **Hringkesh Singh** - [HringkeshSingh](https://github.com/HringkeshSingh)
 - **Aryav Jain** - [AryavJain14](https://github.com/AryavJain14)
-- **Hringkesh Singh** - [HringkeshSingh](https://github.com/HringkeshSingh)
 - **Meet Raut** - [MeetRaut](https://github.com/MeetRaut)
 - **Hrishikesh Dhuri** - [Hrishikesh Dhuri](https://github.com/Hrishikesh19032004)
   
